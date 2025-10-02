@@ -1,16 +1,14 @@
-## Hi there 👋
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="68">   
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=25&duration=3000&pause=100&multiline=true&width=650&height=80&lines=Hi,+I'm+Ricardo!;A+technology+enthusiast+passionate+about+learning" alt="Typing SVG" /> <a href="https://github.com/FelipeRicardo5">
 
-<!--
-**FRicardo5/FRicardo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div> 
+   <p>
+     
+    Developer | Cloud Computing
+  
+   </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href = "emailto:felipe1ricardo158@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-ricardo-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+</div>
